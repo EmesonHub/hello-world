@@ -1,5 +1,5 @@
-# hello-world Example
-First Repository
+# hello-world
+First Repository Example
 
 Welcome to EmesonHub, The Github Account of Gem Emeson.. 
 Still a novice here, trying to learn one or two things to help in my software development versioning and track changes..
